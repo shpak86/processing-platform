@@ -70,7 +70,7 @@ Name | Type | Description
 --------------- | --------------- | ---------------
 imageId | String | Идентификатор изображения
 label | String | Метка объекта
-geometry | Геометрия области в формате { TOP, LEFT, WIDTHxHEIGHT }
+geometry | String | Геометрия области в формате { TOP, LEFT, WIDTHxHEIGHT }
 timestamp | Timestamp with timezone | Время создания
 ### Обнаруженные объекты
 
